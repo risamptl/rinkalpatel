@@ -33,10 +33,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Rinkal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-
----
-
-### 🌸 Fun Fact
-I love **pink vibes**, travel captions, and making things look pretty ✨
+### 🎨 Fun Fact  
+I believe every design has a story — and colors are the language I love to speak ✨  
