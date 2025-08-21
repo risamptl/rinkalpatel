@@ -27,8 +27,11 @@
 ---
 
 ### 📌 Featured Projects
-- 🛒 **POS** – POS system with modern UI  
-- 🏫 **ERP** – School ERP frontend project  
+- 🛒 **POS Systems** – Modern & responsive Point of Sale UIs  
+- 🏫 **ERP Solutions** – School & business ERP frontend projects  
+- 📧 **Email Templates** – Clean & reusable HTML email designs  
+- 🎨 **HTML Themes** – Custom UI themes & layouts  
+- 🌐 **ThemeForest Templates** – Premium templates for web & apps  
 - 🎨 **Creative Tools** – Framer & Canva design work  
 
 ---
